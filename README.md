@@ -1,6 +1,6 @@
 # Building a CI/CD Pipeline
 
-A hands-on guide to automating the journey from code to production, created for Level 5/6 Software Engineering apprentices.
+A hands-on guide to automating the journey from code to production, created for Level Software Engineering apprentices.
 
 By the end of this session, you'll have a working CI/CD pipeline that automatically tests your code, packages it into a Docker image, and deploys it to a live URL — every time you push a change. Not a diagram of a pipeline or a hypothetical walkthrough: a real, running pipeline that you built yourself.
 
